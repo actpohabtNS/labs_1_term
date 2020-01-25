@@ -1,0 +1,13 @@
+12:12}{14:11}{somewhere}{somewhat}{1
+14:11}{15:11}{place5}{evnet5}{2
+15:11}{15:11}{place4}{event4}{3
+16:14}{15:11}{place3}{event3
+16:54}{15:11}{place8}{very importanit event
+16:54}{15:11}{place7}{event
+17:17}{16:11}{place}{event11
+16:16}{17:11}{place}{event
+17:02}{20:11}{Faculty of cybernetics}{Hugs
+14:44}{25:11}{Unicyb}{Fun}{3
+15:15}{27:11}{Univ}{Programming
+13:05}{03:12}{Somwheer}{Event44}{1
+13:18}{03:12}{Univer}{algebra}{1
