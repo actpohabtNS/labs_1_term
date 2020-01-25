@@ -1,0 +1,59 @@
+lab01:
+ - whether all digits of num are unique
+ - whether all digits of num are even
+ - whether sum of all digits is Prime
+ - whether all digits on even positions are odd
+ - translate num to another num system
+
+lab02:
+ - long Integer arithmetics with operators: >, <, ==, %, +, -, *, /, // (get delimeters), /==/ (get common delimeters), /// (reduce numbers)
+
+lab03:
+ - long Float operator /
+
+lab04:
+ - fraction arithmetics analizator (but only 2 additions)
+
+lab05: 
+ - 1 - whether a circle can be build onto triangle's hypotenuse
+ - 2 - whether a cube can be put into a hole
+ - 4 - returns square of parts, created by the input ratio, of a circle 
+ - 5 - returns list of Furzin's numbers, that are in a conflict with each other (x by y field with n ferzins)
+
+lab05_task6:
+ - whether the dot is inside the polygon (vertexes are input in unticlockwise direction)
+
+lab05_task7:
+ - returns radius of the largest circle possible and vertexes of the triangle, created on input dots
+
+lab06: 
+ * requires lab06.txt in the next path: ../files*
+ - 1 - returns number of symbols, letters, punctuation marks
+ - 2 - returns the number of words and sentences
+ - 3 - returns the number of words that start and end at vowel / consonant
+ - 4 - returns the number of words that have double letters
+ - 5 - returns the longest and the shortest word and their length
+ - 6 - whether the input word is presented in the text
+ - 7 - replaces all the vowels with *
+ - 8 - deletes all the vowels
+ - 9 - replaces all 'k' letters with 'math'
+
+lab07: 
+ * requires lab07.txt in the next path: ../files*
+ - 1 - reads all the data and returns: 
+     | a. contry with min/max temperature in every season and average
+     | b. contry, season and temperature, which is min/max for every season for all the countries
+     | c. ascending / descending sorted lists of countries and their temperature by temperature in every season or average
+     | d. list of countries with summer temp > 30° C
+     | e. list of counties with winter temp < 0° C
+
+ - 2 - user inputs the name of the country, program returns:
+     | a. min / max / average temp for this country
+     | b. whether temps in this country were below / above than input Number
+     | c. yearly temp amplitude
+
+lab08: PLANER
+ - add / delete / browse / mark done your events / tasks
+ - change settings: name, sortion rule (by date / by alphabet)
+! NOTE ! navigation through the Planner can be made by Arrows
+! NOTE ! to discard search quarry just create a new empty one

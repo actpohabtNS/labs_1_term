@@ -8,15 +8,16 @@ using namespace std;
 
 vector<int> inputArrNum(string numName) {
 	vector<int> num;
+	string numStr;
 
 	cout << "Enter " << numName << ": ";
 
-	for (int i = 0; ; i++) {
-		char digit;
-		cin >> digit;
-		if (!isdigit(digit)) break;
-		num.push_back((int)digit - '0');
+	cin >> numStr;
+
+	for (char ch : numStr) {
+		num.push_back(ch);
 	}
+
 
 	cin.clear();
 
